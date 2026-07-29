@@ -2,6 +2,8 @@
 
 This task involved building a predictive model that answers the question: "what sorts of people were more likely to survive the Titanic?". The product of this task was officially submitted to Kaggle for entry into the competition and also to solidify my knowledge in Machine Learning.
 
+You can access this project on Kaggle here: https://www.kaggle.com/code/osazelemomoh/titanic-ml-task-submission/notebook
+
 ## Steps Taken
 -
 -
