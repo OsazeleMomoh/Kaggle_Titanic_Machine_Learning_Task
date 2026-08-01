@@ -5,11 +5,11 @@ This task involved building a predictive model that answers the question: "what 
 You can access this project on Kaggle here: https://www.kaggle.com/code/osazelemomoh/titanic-ml-task-submission/notebook
 
 ## Steps Taken
--
--
--
--
--
+- Load the data into Python environment
+- Check percentage of women and men who survived (to 2 decimal places)
+- Import needed libraries for use
+- Using the prediction model, parse data to get the survival predictions for the passengers
+- Output the predictions as a database and as a .csv file
 
 ## Accuracy Score
 The accuracy score for the prediction model built for this task is given on kaggle as 0.77033 (77.03%) close to the true answer.
